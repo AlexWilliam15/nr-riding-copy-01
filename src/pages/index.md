@@ -1,11 +1,8 @@
 ---
 title: Home
 banner:
-  title: Spectral
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  title: 'NR '
+  subtitle: '"Riding with Style"'
   actions:
     - label: Activate
       url: /generic
@@ -18,27 +15,19 @@ banner:
     is_scrolly: true
 sections:
   - type: icons
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+    title: Jacket Material
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+      Material Taslan adalah kain modern yang dirancang/diproduksi dengan
+      menggunakan teknologi yang canggih.
     section_id: one
     background_style: style1
     feature_icons:
-      - title: Lorem
+      - title: Worth
         icon: fa-diamond
         style: style1
-      - title: Ipsum
+      - title: Love
         icon: fa-heart-o
         style: style2
-      - title: Dolor
-        icon: fa-code
-        style: style3
     component: Icons
   - type: spotlights
     title: Spotlights Section
