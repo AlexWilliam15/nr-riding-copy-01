@@ -1,21 +1,12 @@
 social_icons:
   - title: Twitter
     icon: fa-twitter
-    url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
+    url: 'https://twitter.com/RidingNr'
   - title: Instagram
     icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
+    url: 'https://www.instagram.com/nr_riding/'
 copyright: '&copy; Spectral'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: Made with NR Riding Apparel
+    url: 'https://www.instagram.com/nr_riding/'
     new_window: true
