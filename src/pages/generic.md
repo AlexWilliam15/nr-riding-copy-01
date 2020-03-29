@@ -8,7 +8,7 @@ menus:
     weight: 2
 template: page
 ---
-<h1> NR </h1>berasal dari singkatan pendiri NR Riding Apparels yaitu Nicholas Veri dan Reyner Giovanni Tjandra. 
+ <h3>NR</h3> berasal dari singkatan pendiri NR Riding Apparels yaitu Nicholas Veri dan Reyner Giovanni Tjandra. 
 
 Pada bulan Februari 2018, Ario Oriwarda Girsang direkrut untuk bergabung dengan tim kami karena Ario merupakan orang yang cukup paham dengan seluk-beluk jaket motor.
 
