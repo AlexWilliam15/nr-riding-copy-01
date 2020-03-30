@@ -5,6 +5,9 @@ social_icons:
   - title: Instagram
     icon: fa-instagram
     url: 'https://www.instagram.com/nr_riding/'
+  - title: Tokopedia
+    icon: fa-tokopedia
+    url: 'https://www.tokopedia.com/nr-riding'
 copyright: '&copy; NR'
 links:
   - text: Made with NR Riding Apparel
